@@ -32,6 +32,4 @@ export class HeroPageComponent implements OnInit{
     )
   }
 
-
-
 }

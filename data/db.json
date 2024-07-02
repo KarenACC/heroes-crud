@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
     }
   ],
@@ -21,8 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-Ellll",
-      "alt_img": "https://i.pinimg.com/736x/51/33/b7/5133b7ed0f7fc74a12b0d1317e266afb.jpg"
+      "characters": "Kal-El",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png"
     },
     {
       "id": "dc-flash",
@@ -167,33 +167,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "ypKW6oy",
-      "superhero": "superkaren",
-      "publisher": "DC Comics",
-      "alter_ego": "karen castro",
-      "first_appearance": "1016",
-      "characters": "kc",
-      "alt_img": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/wp-content/uploads/2023/12/Nota-1.1.jpg"
-    },
-    {
-      "id": "ZFZdwAJ",
-      "superhero": "uriel",
-      "publisher": "Marvel Comics",
-      "alter_ego": "uriel castro",
-      "first_appearance": "2020",
-      "characters": "uriiiiiii",
-      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf80NNJ88kXmfz84FKHef99BsLHCpj5twJpQ&s"
-    },
-    {
-      "id": "dvksjtZ",
-      "superhero": "mama",
-      "publisher": "Marvel Comics",
-      "alter_ego": "elena catalan",
-      "first_appearance": "1998",
-      "characters": "mami",
-      "alt_img": "https://static.vecteezy.com/system/resources/previews/001/936/929/original/cute-mommy-and-baby-elephant-in-watercolor-style-vector.jpg"
     }
   ]
 }
